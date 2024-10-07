@@ -1,4 +1,11 @@
-## Hi there 👋
+## 부산대학교 의생명융합공학부 학부 재학중
+
+## 경희대학교 SW해커톤 khuthon 최우수상 수상
+## 부산대학교 창의융합해커톤 장려상 수상
+
+
+
+
 
 <!--
 **studyhard01/studyhard01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
