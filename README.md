@@ -1,7 +1,5 @@
-## 부산대학교 의생명융합공학부 학부 재학중
 
-### 경희대학교 SW해커톤 khuthon 최우수상 수상
-### 부산대학교 창의융합해커톤 장려상 수상
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ### Statistics
@@ -14,11 +12,16 @@
 ### Main Tools
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="kotlin" height="50px"/>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### Currently Developing Tools
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/linux.png" alt="linux" height="50px"/>
+
+### 수상경력
+경희대학교 SW해커톤 khuthon 최우수상 수상
+부산대학교 창의융합해커톤 장려상 수상
 
 <!--
 **studyhard01/studyhard01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
