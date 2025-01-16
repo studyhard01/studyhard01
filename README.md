@@ -1,5 +1,12 @@
+# 경력사항
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=90)
+#### 부산대학교 제 5회  창의융합 SW 해커톤 장려상  
+
+#### 제3회 창업 아이디어 공모전 우수상  
+
+#### 경희대학교 소프트웨어 해커톤 최우수상  
+
+#### 제3회 부산대학교 메딬털 해커톤 경진대회 우수상  
 
 
 ### Statistics
