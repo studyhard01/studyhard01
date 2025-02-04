@@ -4,8 +4,9 @@
 <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=studyhard01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>  
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>  
 
+  
 ### 🏆
 
 #### 부산대학교 제 5회  창의융합 SW 해커톤 장려상  
@@ -16,7 +17,7 @@
 
 #### 제3회 부산대학교 메딬털 해커톤 경진대회 우수상  
 
-#### [KSC 2024 학부생논문] 심전도 신호 이진 분류에 대한 언어 모델 활용
+#### [KSC 2024] 학부생논문경진대회 장려상 - 심전도 신호 이진 분류에 대한 언어 모델 활용
   
 
 <!--
