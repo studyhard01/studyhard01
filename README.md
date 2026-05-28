@@ -1,13 +1,9 @@
+## Career
 
-### Statistics
-![SeokHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=studyhard01&theme=dark&show_icons=true)
+| Date              | Career           | Org.  |
+|-------------------|------------------|-------|
+| 2026.03 ~ Current | AI 연구원        | (재)씨젠의료재단 |
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/>  
-
-🕰️ Career
-Date	Career	Org.
-2026.03 ~ Current	AI 연구원 (재)씨젠의료재단
 
 ### 🏆
 
@@ -24,3 +20,6 @@ Date	Career	Org.
 [KSC 2024] 학부생논문경진대회 장려상 - 심전도 신호 이진 분류에 대한 언어 모델 활용
   
 
+
+### Statistics
+![SeokHyeon's GitHub stats](![SeokHyeon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=studyhard01&show_icons=true&theme=default))
