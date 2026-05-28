@@ -22,4 +22,4 @@
 
 
 ### Statistics
-![SeokHyeon's GitHub stats](![SeokHyeon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=studyhard01&show_icons=true&theme=default))
+![SeokHyeon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=studyhard01&show_icons=true&theme=default)
